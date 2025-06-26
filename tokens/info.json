@@ -1,0 +1,9 @@
+name	"Berinspa"
+symbol	"BER"
+type	"BEP20"
+decimals	18
+description	"Berinspa Token (BER) adalah token digital berbasis BNB Smart Chain (BEP-20) yang dirancang untuk memperkuat komunitas Berinspa — sebuah platform media sosial berbasis pengembangan diri, koneksi antar profesional, dan pertukaran wawasan antara para pemikir dan pelaku perubahan masa depan."
+website	"https://berinspa.com"
+explorer	"https://bscscan.com/token/0x3BeceD2A18ab694F942db34542cAFE30c5680fE0"
+status	"active"
+id	"0x3BeceD2A18ab694F942db34542cAFE30c5680fE0"
